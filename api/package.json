@@ -10,7 +10,7 @@
     "composable-middleware": "^0.3.0",
     "ejs": "^2.5.7",
     "express": "^4.15.4",
-    "express-jwt": "^3.0.0",
+    "express-jwt": "^6.0.0",
     "express-session": "^1.11.3",
     "fs": "0.0.1-security",
     "jsonwebtoken": "^5.0.0",
